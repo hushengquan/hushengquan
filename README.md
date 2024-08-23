@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hushengquan
-- 👀 I’m interested in high performance frameworks and distributed systems
-- 🌱 I’m currently learning for a master's degree in computer science at University of Science and Technology Beijing
+- 👀 I’m interested in distributed storage systems and high performance frameworks
+- 🌱 I graduated from Beijing University of Science and Technology with a major in computer science.
+- ✨ I'm currently working in backend development at Tencent Cloud Storage Department in Shenzhen.
 - 📫 How to reach me => Email: 3103707951@qq.com
 
 <!---
