@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @hushengquan
-- 👀 I’m interested in distributed storage systems and high performance frameworks
-- 🌱 I graduated from Beijing University of Science and Technology with a major in computer science.
-- ✨ I'm currently working in backend development at Tencent Cloud Storage Department in Shenzhen.
-
 Here are some interesting communities I'm involved in:
 
 - [cloudwego hertz](https://github.com/cloudwego/hertz) : Hertz is a high-usability, high-performance and high-extensibility Golang HTTP framework
